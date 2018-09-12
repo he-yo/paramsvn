@@ -1,7 +1,7 @@
 [{
   "version": "201809111800",
-  "use_hydra_sdk": 1,
-  "carrier_id": "appfunvpn"
+  "use_hydra_sdk": 0,
+  "carrier_id": "WIFIADEMO"
 }, {
   "version": "201805111800",
   "use_hydra_sdk": 0,
