@@ -1,4 +1,10 @@
 [{
+  "version": "201812091800",
+  "use_hydra_sdk": 1,
+  "carrier_id": "610041_20180918",
+  "show_try_details": 0,
+  "free_try_price": "Try free"
+},{
   "version": "201811131800",
   "use_hydra_sdk": 1,
   "carrier_id": "610041_20180918",
