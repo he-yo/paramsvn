@@ -1,4 +1,11 @@
 [{
+  "version": "201904202200",
+  "use_native_qdgc": 1,
+  "use_hydra_sdk": 0,
+  "carrier_id": "610041_20180918",
+  "show_try_details": 1,
+  "free_try_price": "7 days free"
+},{
   "version": "201903211800",
   "use_native_qdgc": 1,
   "use_hydra_sdk": 1,
