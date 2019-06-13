@@ -1,4 +1,14 @@
 [{
+  "version": "201906132400",
+  "use_native_qdgc": 1,
+  "use_hydra_sdk": 1,
+  "carrier_id": "610041_20180918",
+  "show_try_details": 0,
+  "free_try_price": "7 days free",
+  "use_asia":1,
+  "auto_country":[{"name":"us"}, {"name":"in"}, {"name":"au"}]
+
+},{
   "version": "201906042400",
   "use_native_qdgc": 1,
   "use_hydra_sdk": 1,
