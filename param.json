@@ -6,7 +6,7 @@
   "show_try_details": 0,
   "free_try_price": "7 days free",
   "use_asia":1,
-  "auto_country":[{"name":"us"}, {"name":"au"}, {"name":"de"}]
+  "auto_country":[{"name":"de"}, {"name":"us"}, {"name":"au"}]
 
 },{
   "version": "201906132400",
