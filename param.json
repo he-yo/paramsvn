@@ -4,7 +4,7 @@
   "use_hydra_sdk": 0,
   "carrier_id": "610041_20180918",
   "show_try_details": 1,
-  "free_try_price": "7 days free",
+  "free_try_price": "First 7 days free, then $11.99/month",
   "use_asia":1,
   "auto_country":[{"name":"au"}, {"name":"us"}]
 
