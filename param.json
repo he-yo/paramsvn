@@ -5,6 +5,7 @@
   "carrier_id": "610041_20180918",
   "show_try_details": 1,
   "free_try_price": "First 7 days free, then $11.99/month",
+  "net_test_server": "http://captive.apple.com/",
   "use_asia":1,
   "auto_country":[{"name":"in"}, {"name":"de"}]
 
