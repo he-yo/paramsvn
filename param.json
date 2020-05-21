@@ -7,7 +7,7 @@
   "free_try_price": "7 days free",
   "net_test_server": "http://captive.apple.com/",
   "use_asia":1,
-  "auto_country":[{"name":"in"}, {"name":"de"}]
+  "auto_country":[{"name":"au"}, {"name":"de"}]
 
 },{
   "version": "202002112310",
