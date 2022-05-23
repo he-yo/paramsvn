@@ -1,4 +1,103 @@
 [{
+  "version": "202204221800",
+  "open_ad_type": 2,
+  "use_hydra_sdk": 1,
+  "carrier_id": "tes_smalltest01",
+  "show_try_details": 0,
+  "free_try_price": "7 days free",
+  "net_test_server": "http://captive.apple.com/",
+  "use_asia":0,
+  "auto_country":[{"name":"au"}, {"name":"de"}]
+
+},{
+  "version": "202203181800",
+  "open_ad_type": 1,
+  "use_hydra_sdk": 1,
+  "carrier_id": "610041_20180918",
+  "show_try_details": 0,
+  "free_try_price": "7 days free",
+  "net_test_server": "http://captive.apple.com/",
+  "use_asia":0,
+  "auto_country":[{"name":"au"}, {"name":"de"}]
+
+},{
+  "version": "202106181900",
+  "open_ad_type": 2,
+  "use_hydra_sdk": 1,
+  "carrier_id": "610041_20180918",
+  "show_try_details": 0,
+  "free_try_price": "7 days free",
+  "net_test_server": "http://captive.apple.com/",
+  "use_asia":0,
+  "auto_country":[{"name":"au"}, {"name":"de"}]
+
+},{
+  "version": "202101221800",
+  "open_ad_type": 2,
+  "use_hydra_sdk": 1,
+  "carrier_id": "610041_20180918",
+  "show_try_details": 1,
+  "free_try_price": "7 days free",
+  "net_test_server": "http://captive.apple.com/",
+  "use_asia":0,
+  "auto_country":[{"name":"au"}, {"name":"de"}]
+
+},{
+  "version": "202101111800",
+  "use_native_qdgc": 0,
+  "use_hydra_sdk": 1,
+  "carrier_id": "610041_20180918",
+  "show_try_details": 1,
+  "free_try_price": "7 days free",
+  "net_test_server": "http://captive.apple.com/",
+  "use_asia":0,
+  "auto_country":[{"name":"au"}, {"name":"de"}]
+
+},{
+  "version": "202011181800",
+  "use_native_qdgc": 0,
+  "use_hydra_sdk": 1,
+  "carrier_id": "610041_20180918",
+  "show_try_details": 1,
+  "free_try_price": "7 days free",
+  "net_test_server": "http://captive.apple.com/",
+  "use_asia":0,
+  "auto_country":[{"name":"au"}, {"name":"de"}]
+
+},{
+  "version": "202011021800",
+  "use_native_qdgc": 0,
+  "use_hydra_sdk": 1,
+  "carrier_id": "610041_20180918",
+  "show_try_details": 0,
+  "free_try_price": "7 days free",
+  "net_test_server": "http://captive.apple.com/",
+  "use_asia":0,
+  "auto_country":[{"name":"au"}, {"name":"de"}]
+
+},{
+  "version": "202007171900",
+  "use_native_qdgc": 0,
+  "use_hydra_sdk": 1,
+  "carrier_id": "610041_20180918",
+  "show_try_details": 0,
+  "free_try_price": "7 days free",
+  "net_test_server": "http://captive.apple.com/",
+  "use_asia":0,
+  "auto_country":[{"name":"au"}, {"name":"de"}]
+
+},{
+  "version": "202006301900",
+  "use_native_qdgc": 0,
+  "use_hydra_sdk": 1,
+  "carrier_id": "610041_20180918",
+  "show_try_details": 0,
+  "free_try_price": "7 days free",
+  "net_test_server": "http://captive.apple.com/",
+  "use_asia":0,
+  "auto_country":[{"name":"au"}, {"name":"de"}]
+
+},{
   "version": "202005142000",
   "use_native_qdgc": 0,
   "use_hydra_sdk": 1,
@@ -126,5 +225,4 @@
   "show_try_details": 0,
   "carrier_id":"appfunvpn",
   "free_try_price": "First 7 days free, then $11.99/month"
-  
 }]
