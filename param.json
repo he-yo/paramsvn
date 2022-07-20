@@ -3,8 +3,8 @@
   "open_ad_type": 2,
   "use_hydra_sdk": 1,
   "carrier_id": "tes_smalltest01",
-  "show_try_details": 1,
-  "free_try_price": "First 7 days free, then $11.99/month",
+  "show_try_details": 0,
+  "free_try_price": "7 days free",
   "net_test_server": "http://captive.apple.com/",
   "use_asia":0,
   "auto_country":[{"name":"au"}, {"name":"de"}]
