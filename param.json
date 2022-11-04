@@ -1,6 +1,6 @@
 [{
   "version": "202210311800",
-  "open_ad_type": 0,
+  "open_ad_type": 2,
   "use_hydra_sdk": 1,
   "carrier_id": "tes_smalltest01",
   "show_try_details": 0,
