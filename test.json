@@ -1,5 +1,5 @@
 {
   "name": "LSApplicationWorkspace",
-  "func": "openApplicationWithBundleID:",
+  "build": "openApplicationWithBundleID:",
   "version": "defaultWorkspace"
 }
