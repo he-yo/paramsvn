@@ -24,5 +24,21 @@
   "banner_id": [],
   "interstitial_id": [],
   "rewardInterstitial_id": ["ca-app-pub-3366333960681313/7716814938"]
-}]
+},
+{
+    "build": "6",
+    "guo_type": 0,
+    "open_id": [
+      "ca-app-pub-3366333960681313/7998750496"
+    ],
+    "reward_id": [
+      "ca-app-pub-3366333960681313/4361874229",
+      "ca-app-pub-3366333960681313/9997449481"
+    ],
+    "rewardInterstitial_id": [
+      "ca-app-pub-3366333960681313/7716814938"
+    ],
+    "banner_id": [],
+    "interstitial_id": []
+  }]
 
